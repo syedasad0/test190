@@ -3,3 +3,10 @@ var b = 20;
 var c = a+b;
 console.log("sum---",a);
 new lines of code
+
+
+
+
+
+
+pratap rana
